@@ -12,9 +12,6 @@ Open your local browser and install the application via Install! button.
 
 License: MIT
 
-Screenshot
-
-
 Contact:
 jess.t.mulliken@gmail.com
 https://github.com/jmullz-z
